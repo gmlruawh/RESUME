@@ -15,88 +15,15 @@
 ```
 엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
 ```
-
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
-
-## Enginnering Ladders
-[Engineering Ladders](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)로 표현해본 제 스킬은 이렇습니다.
-
-<img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
-
-## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
-
-## 대외활동
-- [ifkakao 2022 발표](https://www.youtube.com/watch?v=YXi0eipXBKk) - CI & Remote Build (2022)
-- 네이버 부스트캠프 코드 리뷰어(2021)
-- Mashup 개발동아리(2017 ~ 2018)
-- 소프트웨어 마에스트로 7기(2016 ~ 2017)
-- 차세대보안리더 BoB 4기(2015)
-- 삼성소프트웨어멤버십 주니어 1기(2014)
-
 ## 학력
-- 세종대학교 컴퓨터공학과 3학년 휴학(2015 입학)
-- 한국디지털미디어고등학교 해킹방어과 졸업(2012 ~ 2014)
+- 광운대학교 전기공학과 3학년 재학(2020 입학)
 
-## 오픈소스 기여
-
-### airbnb/mavericks
-- [Compose에서 viewModel scope를 커스텀하게 잡을경우 생기는 버그 수정](https://github.com/airbnb/mavericks/pull/712)
-
-### Adambl4/mirakle
-- [안드로이드 리모트 빌드 환경에서 hostname 변환이 잘못되고 한글이 깨지는 이슈 수정](https://github.com/Adambl4/mirakle/pull/123)
-
-### Sonatype/nexus directjngine
-- [파일 경로에 따라 디버그 유틸이 꼬이는 버그 수정 PR](https://github.com/sonatype/directjngine/pull/21)
-
-### PhotoEditor
-- [Deprecated 및 크래시 대응](https://github.com/burhanrashid52/PhotoEditor/pull/324)
-
-### TedPermission
-- [Travis CI 빌드 관련 설정 수정 PR](https://github.com/ParkSangGwon/TedPermission/pull/66)
-- [화면 회전 옵션 추가 및 SDK 버전에 따른 대응 추가 PR](https://github.com/ParkSangGwon/TedPermission/pull/74#issuecomment-363602722)
-
-### RxAndroid
-- [오타 수정 PR](https://github.com/ReactiveX/RxAndroid/pull/411)
-
-## 사용 기술
-### Android
-요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다.
-- Kotlin, Kotlin DSL
-- DI : Dagger / Koin
-- Stream : rxJava / coroutine
-- View : Compose, Epoxy, Databinding
-- Architecture : MVI, MVVM, MVP
-- lint + test code
-
-### Backend
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다.
-- python - flask/gunicorn
-- nodejs
-- celery 
-- rabbitmq / messageQ / redis
-- docker 
-- selenium
-
-### Frontend
-주변 도움을 받으면 간단한 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다.
-- React
-
-그 외 흔히 채용공고에 나오는 이런 '자격요건'들을 경험 해봤습니다.
-- 팀 : 기능조직 / 목적조직 / 스쿼드
-- 배포 : 정기배포(1주) / 배포자동화 / 단계적배포
-- 실험 : AB 테스팅 / deeplink / referrer / Firebase
-- 모니터링 : Fabric / Google Analytics / Firebase Analytics
-- 커뮤니케이션 : Slack
-- 이슈관리 : Github / Jira / Trello / Asana
-- CI/CD : TravisCI / Coveralls / Jenkins / SonarQube / Actions
-- 디자인 협업 : Zeplin / Figma
-- 버전관리 : Git / GitFlow
-
+## 교육
+- 광운대학교 지능형로봇혁시융합대학사업단 이공계 모듈
+- 광운대학교 지능형로봇혁시융합대학사업단 로봇전장 모듈
+- 광운대학교 23-24 DSP교육
+- 광운대학교 24' 하계 모터제어 교육
+  
 ## 프로젝트 이력
 
 

@@ -5,7 +5,7 @@
 - 병역: 육군 만기전역
 - 취미: 수영, 달리기, 여행
 - Email: kyumhee1862@gmail.com
-- GitHub: [github.com/jspiner](https://github.com/gmlruawh)
+- GitHub: [github.com/gmlruawh](https://github.com/gmlruawh)
 
 ```
 공학도로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.
